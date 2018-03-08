@@ -8,7 +8,7 @@ Personal ongoing exploratory project creating a Java app for Gothenburgs public 
 * I am by no means a professional programmer, beware of ugly/bad code ahead!
 * A working runnable jar can be downloaded from here [Studio Tumult](http://studiotumult.blogspot.se/p/programingit.html)
 
-## Why the shared code dosen't work
+## Why the shared code doesn't work
 
 Västtrafiks' API uses Oauth2 authentication which requires keys given when creating a application/project on their [developer portal](https://developer.vasttrafik.se/portal/#/). I'm not a experienced coder, but what i gather is that keys for authentication should not be public. I wanted to upload to be able to share it, but until I learn more, I've removed keys from the code which makes it non functional. 
 
